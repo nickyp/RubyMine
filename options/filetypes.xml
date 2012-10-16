@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern="kirk" type="PLAIN_TEXT" />
+      <mapping pattern="README_FOR_APP" type="PLAIN_TEXT" />
+      <mapping pattern="make_signed_jar" type="PLAIN_TEXT" />
+      <mapping pattern="test_all_fast" type="PLAIN_TEXT" />
+      <mapping pattern="OTPS_VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="svs-server" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
+      <mapping pattern="test_console" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="aspi-proxy-conf-daemon" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping ext="disabled" type="PLAIN_TEXT" />
+      <mapping ext="rspec" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping pattern="*.rb.disabled" type="Ruby" />
+      <mapping pattern="Capfile" type="Ruby" />
+      <mapping pattern="Kirkfile" type="Ruby" />
+      <mapping pattern="rake_fast" type="Ruby" />
+      <mapping ext="tokamak" type="Ruby" />
+      <mapping pattern="*.yml.example" type="YAML" />
+      <mapping ext="yml_example" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
+

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="vcs">
+      <project id="rb_vacman" values="Git" />
+      <project id="rails" values="Git" />
+      <project id="portal" values="Git" />
+      <project id="cki" values="Git" />
+      <project id="dpplus" values="Git" />
+      <project id="books_demo" values="Git" />
+      <project id="asp_oauth_example" values="Git" />
+      <project id="ipt_otps_applet" values="Git" />
+      <project id="developer_mdp" values="Git" />
+      <project id="redis-rb" values="Git" />
+      <project id="aspi_proxy_conf_daemon" values="Git" />
+      <project id="brain" values="Git" />
+      <project id="svs_server" values="Git" />
+      <project id="provisioning" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="portal" values="RailsFacetType" />
+      <project id="developer_mdp" values="RailsFacetType" />
+      <project id="cki" values="RailsFacetType" />
+      <project id="foo" values="RailsFacetType" />
+      <project id="brain" values="RailsFacetType" />
+      <project id="svs_server" values="RailsFacetType" />
+      <project id="provisioning" values="RailsFacetType" />
+      <project id="dpplus" values="RailsFacetType" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="developer_mdp" values="/,/,/,/" />
+      <project id="cki" values="/,/,/" />
+      <project id="svs_server" values="/,/,/" />
+      <project id="dpplus" values="/,PostgreSQL/8.4.2,PostgreSQL/8.4.2,/,/,/,/,PostgreSQL/8.4.2" />
+    </group>
+    <group name="ruby-project-type">
+      <project id="rb_vacman" values="plain ruby" />
+      <project id="rails" values="plain ruby" />
+      <project id="rspec-rails-2.6.0" values="plain ruby" />
+      <project id="active_model" values="plain ruby" />
+      <project id="portal" values="rails unknown" />
+      <project id="foo" values="rails 3.0" />
+      <project id="cki" values="rails unknown" />
+      <project id="activemodel-3.0.10" values="plain ruby" />
+      <project id="dpplus" values="rails unknown" />
+      <project id="books_demo" values="plain ruby" />
+      <project id="asp_oauth_example" values="plain ruby" />
+      <project id="ipt_otps_applet" values="plain ruby" />
+      <project id="activerecord-3.0.10" values="plain ruby" />
+      <project id="developer_mdp" values="rails 3.2" />
+      <project id="redis-rb" values="gem" />
+      <project id="aspi_proxy_conf_daemon" values="plain ruby" />
+      <project id="brain" values="rails 3.2" />
+      <project id="svs_server" values="rails 3.0" />
+      <project id="provisioning" values="rails 3.2" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="portal" values="RakeRunConfigurationType,RailsRunConfigurationType" />
+      <project id="developer_mdp" values="RailsRunConfigurationType,RakeRunConfigurationType" />
+      <project id="cki" values="RailsRunConfigurationType,RakeRunConfigurationType" />
+      <project id="foo" values="RakeRunConfigurationType,RailsRunConfigurationType" />
+      <project id="brain" values="RailsRunConfigurationType,RakeRunConfigurationType" />
+      <project id="svs_server" values="RakeRunConfigurationType,RailsRunConfigurationType" />
+      <project id="provisioning" values="RailsRunConfigurationType,RakeRunConfigurationType" />
+      <project id="dpplus" values="RailsRunConfigurationType,RSpecRunConfigurationType,RakeRunConfigurationType" />
+    </group>
+    <group name="module type">
+      <project id="rb_vacman" values="RUBY_MODULE" />
+      <project id="rails" values="RUBY_MODULE" />
+      <project id="rspec-rails-2.6.0" values="RUBY_MODULE" />
+      <project id="active_model" values="RUBY_MODULE" />
+      <project id="portal" values="RUBY_MODULE" />
+      <project id="foo" values="RUBY_MODULE" />
+      <project id="cki" values="RUBY_MODULE" />
+      <project id="activemodel-3.0.10" values="RUBY_MODULE" />
+      <project id="dpplus" values="RUBY_MODULE" />
+      <project id="books_demo" values="RUBY_MODULE" />
+      <project id="asp_oauth_example" values="RUBY_MODULE" />
+      <project id="ipt_otps_applet" values="RUBY_MODULE" />
+      <project id="activerecord-3.0.10" values="RUBY_MODULE" />
+      <project id="developer_mdp" values="RUBY_MODULE" />
+      <project id="redis-rb" values="RUBY_MODULE" />
+      <project id="aspi_proxy_conf_daemon" values="RUBY_MODULE" />
+      <project id="brain" values="RUBY_MODULE" />
+      <project id="svs_server" values="RUBY_MODULE" />
+      <project id="provisioning" values="RUBY_MODULE" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="active_model" values="RubyRunConfigurationType" />
+      <project id="portal" values="RubyRunConfigurationType,RSpecRunConfigurationType" />
+      <project id="developer_mdp" values="com.intellij.persistence.run.ConsoleRunConfigurationType,RSpecRunConfigurationType" />
+      <project id="svs_server" values="RSpecRunConfigurationType" />
+      <project id="dpplus" values="CucumberRunConfigurationType,RSpecRunConfigurationType" />
+    </group>
+    <group name="file-type">
+      <project id="books_demo" values="YAML,UNKNOWN,HAML,CSS,Images,Ruby,RHTML,PLAIN_TEXT,SCSS,JavaScript" />
+      <project id="rails" values="RXML,CSS,SQL,YAML,JavaScript,RHTML,RDOC,UNKNOWN,PLAIN_TEXT,Images,XML,HTML,Ruby,HAML" />
+      <project id="ipt_otps_applet" values="XML,PLAIN_TEXT,Ruby,UNKNOWN" />
+      <project id="active_model" values="Ruby,XML,UNKNOWN" />
+      <project id="activerecord-3.0.10" values="PLAIN_TEXT,Ruby,YAML,Images,UNKNOWN,RDOC,XML" />
+      <project id="developer_mdp" values="RHTML,CoffeeScript,UNKNOWN,HTML,YAML,Images,Ruby,HAML,PLAIN_TEXT,Native,Cucumber,SCSS,CSS,JavaScript" />
+      <project id="foo" values="UNKNOWN,RHTML,YAML,PLAIN_TEXT,JavaScript,Ruby,XML,Images,HTML" />
+      <project id="activemodel-3.0.10" values="YAML,XML,PLAIN_TEXT,Ruby,RDOC,UNKNOWN" />
+      <project id="svs_server" values="ARCHIVE,RHTML,PLAIN_TEXT,HTML,XML,Ruby,DATASOURCE_STORAGE,UNKNOWN,JavaScript,YAML,Images" />
+      <project id="brain" values="Ruby,PLAIN_TEXT,UNKNOWN,ARCHIVE,XML,HTML,Images,YAML,RHTML" />
+      <project id="provisioning" values="CoffeeScript,UNKNOWN,RDOC,ARCHIVE,YAML,XML,JavaScript,Ruby,SCSS,CSS,PLAIN_TEXT,RHTML,HTML,Images" />
+      <project id="dpplus" values="RDOC,Native,SCSS,RHTML,HAML,YAML,UNKNOWN,HTML,Cucumber,PLAIN_TEXT,RXML,CSS,JavaScript,ARCHIVE,SASS,Ruby,Images,XML" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="books_demo" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="ipt_otps_applet" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="svs_server" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="brain" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="provisioning" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+      <project id="dpplus" values="Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="books_demo" values="DEFAULT" />
+      <project id="ipt_otps_applet" values="DEFAULT" />
+      <project id="portal" values="DEFAULT" />
+      <project id="developer_mdp" values="DEFAULT" />
+      <project id="brain" values="DEFAULT" />
+      <project id="svs_server" values="DEFAULT" />
+      <project id="provisioning" values="DEFAULT" />
+      <project id="dpplus" values="DEFAULT" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="developer_mdp" values="org.postgresql.Driver,org.postgresql.Driver,org.postgresql.Driver,org.postgresql.Driver" />
+      <project id="cki" values="org.postgresql.Driver,org.postgresql.Driver,org.postgresql.Driver" />
+      <project id="svs_server" values="org.sqlite.JDBC,org.sqlite.JDBC,org.sqlite.JDBC" />
+      <project id="dpplus" values="org.postgresql.Driver,org.postgresql.Driver,org.postgresql.Driver,org.postgresql.Driver,org.postgresql.Driver,org.postgresql.Driver,org.postgresql.Driver,org.postgresql.Driver" />
+    </group>
+    <group name="ruby-gems-names">
+      <project id="books_demo" values="webrobots,rspec,dm-do-adapter,rack,dm-transactions,selenium-webdriver,faraday,multi_json,capybara,fakeweb-matcher,multipart-post,net-ssh,rack-test,rake,rack-protection,dm-core,rspec-expectations,sinatra-contrib,rspec-core,coderay,rubyzip,tilt,net-sftp,sinatra,method_source,childprocess,sass,dm-aggregates,capistrano-ext,xpath,ffi,net-http-digest_auth,eventmachine,oauth2,log4r,backports,haml,dm-validations,addressable,capistrano,nokogiri,net-ssh-gateway,bundler,net-scp,rack-flash,capybara-mechanize,diff-lcs,fakeweb,database_cleaner,mime-types,dm-migrations,highline,net-http-persistent,mechanize,rspec-mocks" />
+      <project id="asp_oauth_example" values="haml,dm-do-adapter,capistrano,faraday,json_pure,xpath,net-ssh-gateway,rubyzip,childprocess,fakeweb-matcher,bundler,capybara-mechanize,net-ssh,selenium-webdriver,net-http-digest_auth,dm-transactions,oauth2,mechanize,dm-validations,net-http-persistent,ffi,nokogiri,rspec,mime-types,rspec-expectations,rack-test,dm-core,capistrano-ext,sinatra,dm-migrations,multi_json,tilt,diff-lcs,net-sftp,net-scp,database_cleaner,rack,data_objects,addressable,rspec-core,multipart-post,do_sqlite3,dm-sqlite-adapter,fakeweb,highline,dm-aggregates,rake,webrobots,rack-flash,capybara,rspec-mocks,sass" />
+      <project id="rails" values="railties,erubis,activemodel,thor,tzinfo,bcrypt-ruby,rack,abstract,mail,rack-mount,polyglot,actionpack,rdoc,activeresource,treetop,mime-types,activesupport,bundler,activerecord,actionmailer,builder,arel,i18n,rake,json,rack-test" />
+      <project id="portal" values="abstract,diff-lcs,capistrano-ext,builder,capistrano,timecop,fastthread,net-scp,thor,restfulie,net-ssh,json_pure,highline,nokogiri,net-ssh-gateway,erubis,redis,i18n,system_timer,mongrel,webrat,net-sftp,daemons,factory_girl,cgi_multipart_eof_fix,bundler,rack-test,rails3-redis2-session-store,rack-mount,rails3-generators,gem_plugin" />
+      <project id="activerecord-3.0.10" values="addressable" />
+      <project id="developer_mdp" values="activeresource,rails_config,foreigner,addressable,net-sftp,formtastic,net-ssh-gateway,cucumber-rails,factory_girl,bcrypt-ruby,pg,httpauth,subexec,activemodel,rspec-mocks,capistrano-ext,thin,railties,rack-protection,sprockets,log4r,omniauth,sinatra,version,activesupport,capybara,actionpack,i18n,rack-test,mailcatcher,tilt,rack-ssl,rdoc,builder,simple_cov,database_cleaner,sass,multi_xml,pwdcalc,bundler,highline,remarkable,json,treetop,rspec-expectations,omniauth-oauth2,exception_notification,erubis,cucumber,jquery-rails,rails,rack,polyglot,mini_magick,simple_cov-html,timecop,sass-rails,oauth2,capistrano,rack-cache,haml,httparty,coffee-script-source,thor,remarkable_activerecord,nestful,vasco_country_us_state_select,sqlite3,rspec-rails,journey,rack-google-analytics,hashie,wicked,diff-lcs,multi_json,execjs,nokogiri,daemons,rspec-core,faraday,tzinfo,crack,omniauth-mydigipass,xpath,rspec,actionmailer,net-ssh,coffee-rails,net-scp,libv8,rake,uglifier,hike,launchy,quiet_assets,gherkin,mime-types,remarkable_activemodel,activerecord,mail,skinny,vcr,arel,eventmachine,therubyracer,airbrake,webmock,multipart-post,coffee-script,factory_girl_rails,haml-rails" />
+      <project id="foo" values="sqlite3,treetop,polyglot,arel,rdoc,railties,rails,rack,i18n,mime-types,activeresource,builder,thor,activemodel,actionmailer,rake,abstract,bundler,activesupport,erubis,actionpack,activerecord,json,tzinfo,rack-mount,mail,rack-test" />
+      <project id="brain" values="diff-lcs,virtus,torquebox-transactions,mail,activesupport,rake,builder,torquebox-stomp,rspec-core,torquebox-core,multi_xml,hashie,rspec-mocks,backports,actionmailer,mime-types,httparty,rails_config,torquebox-cache,rack-ssl,rails-api,kaminari,slop,grape,bouncy-castle-java,rack-cache,kramdown,jquery-rails,erubis,spoon,pry-rails,shoulda-matchers,torquebox-security,treetop,bundler,capistrano-ext,arel,torquebox-capistrano-support,torquebox-naming,torquebox,blankslate,audited-activerecord,torquebox-server,jruby-openssl,jdbc-postgres,tilt,net-ssh,hike,capistrano,rdoc,activerecord-jdbcpostgresql-adapter,activeresource,actionpack,rails,grape-swagger,railties,activerecord,rack_jruby_profiling,net-ssh-gateway,torquebox-messaging,method_source,thor,highline,polyglot,clj,audited,multi_json,rack,torquebox-web,activerecord-jdbc-adapter,bcrypt-ruby,pry,coderay,net-sftp,tzinfo,torquebox-rake-support,rcov,net-scp,journey,json,rspec,rack-test,rspec-expectations,i18n,activemodel,rspec-rails,sprockets,rack-mount,torquebox-configure" />
+      <project id="svs_server" values="mime-types,i18n,rspec-expectations,activemodel,polyglot,kirk,rspec,capistrano,actionpack,activeresource,jdbc-sqlite3,railties,activesupport,rack-mount,rack-test,redis,capistrano-ext,thor,rspec-rails,activerecord-jdbcsqlite3-adapter,rails,ffi,abstract,net-scp,rack,mail,ffi-ncurses,rake,activerecord,rspec-mocks,arel,builder,treetop,activerecord-jdbc-adapter,net-ssh,diff-lcs,bouncy-castle-java,actionmailer,rspec-core,highline,net-sftp,bundler,erubis,tzinfo,net-ssh-gateway" />
+      <project id="provisioning" values="activerecord,tzinfo,mail,pry,rspec,thor,rack-ssl,arel,tilt,pry-rails,rails_config,actionpack,json,activerecord-jdbcsqlite3-adapter,jquery-rails,coderay,capybara,rspec-core,webmock,rubyzip,ffi,bouncy-castle-java,crack,backports,activeresource,rack-mount,grape-swagger,jdbc-sqlite3,polyglot,sprockets,actionmailer,grape,childprocess,rack,hashie,jruby-openssl,redis,rspec-expectations,railties,activesupport,rdoc,xpath,diff-lcs,multi_json,journey,method_source,selenium-webdriver,rails,rack-cache,slop,rack-test,activemodel,rspec-rails,hike,libwebsocket,addressable,rake,mime-types,treetop,virtus,multi_xml,activerecord-jdbc-adapter,builder,i18n,bundler,nokogiri,rspec-mocks,erubis,spoon" />
+      <project id="dpplus" values="paperclip,tzinfo,polyglot,cocoon,treetop,bundler,collection_table,gem_plugin,rdoc,net-scp,rest-client,request_exception_handler,capistrano-ext,uuid,net-sftp,mime-types" />
+    </group>
+    <group name="ruby-custom-scripts">
+      <project id="rails" values="loaded scripts" />
+      <project id="active_model" values="loaded scripts" />
+      <project id="portal" values="loaded scripts" />
+      <project id="foo" values="loaded scripts" />
+      <project id="activemodel-3.0.10" values="loaded scripts" />
+      <project id="dpplus" values="loaded scripts" />
+      <project id="books_demo" values="loaded scripts" />
+      <project id="ipt_otps_applet" values="loaded scripts" />
+      <project id="activerecord-3.0.10" values="loaded scripts" />
+      <project id="developer_mdp" values="loaded scripts" />
+      <project id="brain" values="loaded scripts" />
+      <project id="svs_server" values="loaded scripts" />
+      <project id="provisioning" values="loaded scripts" />
+    </group>
+    <group name="ruby-sdk-version">
+      <project id="rb_vacman" values="Ruby SDK 1.8.7 [1.8]" />
+      <project id="rails" values="ruby-1.9.3-p125" />
+      <project id="rspec-rails-2.6.0" values="Ruby SDK 1.8.7" />
+      <project id="active_model" values="ruby-1.9.3-p125" />
+      <project id="portal" values="Ruby SDK 1.8.7-p334 [1.8]" />
+      <project id="foo" values="ruby-1.9.3-p125" />
+      <project id="cki" values="RVM  ree-1.8.7-2011.03 [1.8]" />
+      <project id="activemodel-3.0.10" values="ruby-1.9.3-p125" />
+      <project id="dpplus" values="ruby-1.9.3-p125" />
+      <project id="books_demo" values="Ruby SDK 1.8.7 [1.8]" />
+      <project id="asp_oauth_example" values="RVM  ree-1.8.7-2011.03 [1.8]" />
+      <project id="ipt_otps_applet" values="ruby-1.9.3-p125" />
+      <project id="activerecord-3.0.10" values="ruby-1.9.3-p125" />
+      <project id="developer_mdp" values="ruby-1.9.3-p125" />
+      <project id="redis-rb" values="Ruby SDK 1.8.7-p334 [1.8]" />
+      <project id="aspi_proxy_conf_daemon" values="Ruby SDK 1.8.7" />
+      <project id="brain" values="jruby-1.6.7.2 [1.9]" />
+      <project id="svs_server" values="jruby-1.6.5 [1.8]" />
+      <project id="provisioning" values="jruby-1.6.7.2 [1.9]" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.CucumberRunConfigurationType.Run" count="1" />
+      <entry feature="execute.RSpecRunConfigurationType.Debug" count="2" />
+      <entry feature="execute.RSpecRunConfigurationType.Run" count="45" />
+      <entry feature="execute.RailsRunConfigurationType.Debug" count="6" />
+      <entry feature="execute.RailsRunConfigurationType.Run" count="33" />
+      <entry feature="execute.RubyRunConfigurationType.Run" count="3" />
+    </counts>
+  </component>
+</application>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="RApplicationSettings">
+    <option name="insertArgsAndBlock" value="true" />
+  </component>
+  <component name="RailsApplicationSettings">
+    <option name="wizardRailsFacetPreconfigureDBName" value="sqlite3" />
+    <option name="wizardRailsFacetPreconfigureSkipTUnitFiles" value="true" />
+    <option name="wizardRailsFacetTemplates">
+      <array>
+        <option value="" />
+      </array>
+    </option>
+  </component>
+</application>
+

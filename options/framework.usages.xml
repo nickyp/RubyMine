@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="FrameworkUsages">
+    <project id="redis" frameworks="Ruby on Rails" />
+    <project id="itbudget" frameworks="Ruby on Rails" />
+    <project id="portal" frameworks="Ruby on Rails" />
+    <project id="enterprise" frameworks="Ruby on Rails" />
+    <project id="cki" frameworks="Ruby on Rails" />
+    <project id="foo" frameworks="Ruby on Rails" />
+    <project id="aspi_proxy_conf_daemon" frameworks="" />
+    <project id="svs_server" frameworks="Ruby on Rails" />
+    <project id="dpplus" frameworks="Ruby on Rails" />
+  </component>
+</application>
+
